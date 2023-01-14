@@ -36,5 +36,5 @@
 ## If you want to embed inside an existing ahk file try this alternative
 -
   ``
-  https://github.com/JnBenites/volume_limit/tree/main/alternative/volume_limiter.ahk
+  https://github.com/JnBenites/volume-limiter/blob/main/alternative/volume_limiter.ahk
   ``
