@@ -11,7 +11,7 @@
 ## Screenshot
   <picture>
     <img src="./Screenshot/Screenshot.png" height="50" alt="Volume-limiter">
-  <picture>
+  </picture>
 
 ## Dependencies
 - AutohotKey    [download](https://www.autohotkey.com/)
