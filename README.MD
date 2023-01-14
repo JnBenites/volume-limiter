@@ -1,17 +1,15 @@
 <p align="center">
-  <br>
-  <picture>
-    <a href='#'><img src='https://i.postimg.cc/0y4nVFFt/Icon.png' border='0' alt='Volume-limiter'/></a>
-  </picture>
+  <a href='#'><img src='https://i.postimg.cc/0y4nVFFt/Icon.png' border='0' alt='Volume-limiter'/></a> 
+<br/>
   <br>
   <strong>Volume-limiter</strong>
 </p>
 <p align="center">This script puts a limit on volume up within windows using the AutoHotKey tool</p>
 
 ## Screenshot
-  <picture>
+<p>
     <a href='#'><img src='https://i.postimg.cc/CMt6PZ8C/screenshot.png' border='0' alt='Volume-limiter'/></a>
-  </picture>
+</p>
 
 ## Dependencies
 - AutohotKey    [download](https://www.autohotkey.com/)
