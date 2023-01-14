@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <picture>
-    <img src="./icon.png" width="100" height="100" alt="Volume-limiter">
+    <a href='#'><img src='https://i.postimg.cc/0y4nVFFt/Icon.png' border='0' alt='Volume-limiter'/></a>
   </picture>
   <br>
   <strong>Volume-limiter</strong>
@@ -10,7 +10,7 @@
 
 ## Screenshot
   <picture>
-    <img src="./Screenshot/Screenshot.png" height="50" alt="Volume-limiter">
+    <a href='#'><img src='https://i.postimg.cc/CMt6PZ8C/screenshot.png' border='0' alt='Volume-limiter'/></a>
   </picture>
 
 ## Dependencies
